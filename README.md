@@ -1,5 +1,5 @@
 <h1>  Import-CSV-arq </h1>
-<h3> Projeto para enviar arquivos CSV à um banco de dados</h3>
+<h3> Projeto para enviar arquivos CSV para um banco de dados MYSQL</h3>
 <br>
 <hr>
 <hr>
